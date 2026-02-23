@@ -81,6 +81,6 @@ Dark mode support
 👨‍💻 Author
 
 Developed by jayy
-B.Tech AI & Data Science
+BE AI & Data Science
 Focused on Python, Data Analysis, and Visualization
 
