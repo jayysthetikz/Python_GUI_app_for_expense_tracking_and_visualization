@@ -6,37 +6,37 @@ The app allows users to input monthly expenses, enforces basic budgeting rules, 
 
 🚀 Features
 
-Modern GUI using CustomTkinter
+-->Modern GUI using CustomTkinter
 
-Background image support
+-->Background image support
 
-Input validation for numeric values
+-->Input validation for numeric values
 
 Rule-based budget warnings:
 
-⚠️ Food expense > 10% of net salary
+-->⚠️ Food expense > 10% of net salary
 
-⚠️ Rent expense > 20% of net salary
+-->⚠️ Rent expense > 20% of net salary
 
-⚠️ Savings < 20% of net salary
+-->⚠️ Savings < 20% of net salary
 
-Interactive pie chart visualization
+-->Interactive pie chart visualization
 
-Clear input fields with one click
+-->Clear input fields with one click
 
-Lightweight and beginner-friendly
+-->Lightweight and beginner-friendly
 
 🖥️ Tech Stack
 
-Python 3
+--->Python 3
 
-CustomTkinter
+--->CustomTkinter
 
-Matplotlib
+--->Matplotlib
 
-Pillow (PIL)
+---->Pillow (PIL)
 
-Tkinter (messagebox)
+--->Tkinter (messagebox)
 
 📊 How It Works
 
@@ -58,25 +58,25 @@ Click Plot to generate a pie chart showing expense distribution
 
 🎯 Use Case
 
-College mini project
+-->College mini project
 
-Python GUI practice
+-->Python GUI practice
 
-Basic financial visualization
+-->Basic financial visualization
 
-Beginner-friendly Data Analysis tool
+-->Beginner-friendly Data Analysis tool
 
 🔮 Future Improvements
 
-Percentage display inside GUI
+-->Percentage display inside GUI
 
-Category-wise color coding
+-->Category-wise color coding
 
-Save data to file (CSV / Excel)
+-->Save data to file (CSV / Excel)
 
-Monthly comparison charts
+-->Monthly comparison charts
 
-Dark mode support
+-->Dark mode support
 
 👨‍💻 Author
 
